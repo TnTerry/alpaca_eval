@@ -1,3 +1,11 @@
+**Note:** This repo is part of the evaluation of different fine-tuned models for https://github.com/jmtitan/Self-Reward-RLHF.
+
+Models:
+- phi2-sft-M1
+- phi2-dpo-M2
+
+---
+
 # <a href="https://tatsu-lab.github.io/alpaca_eval/" target="_blank"><img src="https://raw.githubusercontent.com/tatsu-lab/alpaca_eval/main/docs/AlpacaFarm_small.png" width="35"></a> [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/) : An Automatic Evaluator for Instruction-following Language Models
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/alpaca_farm/blob/main/LICENSE)
