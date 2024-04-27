@@ -1,4 +1,4 @@
-phi2-dpo-M2: # this should be the same as the name as the current directory
+phi2-sft-M2_KL: # this should be the same as the name as the current directory
   prompt_template: "phi2-sft-M2_KL/prompt.txt" # what prompt should be used for this model
   fn_completions: "huggingface_local_completions" # what function should be used to generate completions. See `src/alpaca_eval/decoders` for options
   completions_kwargs: # parameters to the completion function
