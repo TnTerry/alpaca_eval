@@ -3,8 +3,6 @@
 Models:
 - phi2-sft-M1
 - phi2-dpo-M2
-
-Models to be updated:
 - phi2-dpo-M2-Gemini
 - phi2-dpo-M2_KL
 
